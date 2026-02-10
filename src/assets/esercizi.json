@@ -1,1 +1,10 @@
-
+{
+  "rettangolo": [
+    {"base":3,"altezza":2},
+    {"base":5,"altezza":4}
+  ],
+  "triangolo": [
+    {"base":3,"altezza":2},
+    {"base":6,"altezza":3}
+  ]
+}
