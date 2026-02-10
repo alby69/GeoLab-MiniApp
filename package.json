@@ -1,0 +1,14 @@
+{
+  "name": "geolab-miniapp",
+  "version": "1.0.0",
+  "description": "Mini app educativa di geometria",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "license": "MIT"
+}
